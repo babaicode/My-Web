@@ -1,0 +1,36 @@
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.image {
+  margin: auto;
+   align-content: center;
+   border-radius: 30px;
+}
+.footer {
+ text-align: center;
+ font-size: 12px;
+display: flex;
+  justify-content: center;
+ align-items: center;
+  text-transform: uppercase;
+}
+.OnePiece {
+  flex: 1;
+  padding: 10px;
+
+}
+.mainDiv {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
+.divText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
